@@ -64,7 +64,14 @@ Structure the report with sections that fit the topic. Do not use a rigid fixed 
 
 Save the file to the `output/` folder. Do not save anywhere else.
 
-After saving, tell the user: The full filename and path
+After saving, push the file to GitHub:
+```
+git add output/
+git commit -m "Add research report: [topic-slug]"
+git push
+```
+
+After saving and pushing, tell the user: The full filename and path
 - The number of sources cited
 - A one-sentence summary of the bottom line finding
 - Offer to adjust any section
