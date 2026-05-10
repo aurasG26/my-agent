@@ -16,5 +16,6 @@ Cite sources when doing research
 
 # Project Structure
 
-workflows/ – Workflow instruction files (plain English recipes the agent follows) output/ – Finished deliverables (reports, drafts, analysis)
-resources/ - Reference docs and templates
+workflows/ – Workflow instruction files (plain English recipes the agent follows)
+output/ – Finished deliverables (reports, drafts, analysis)
+resources/ – Reference docs and templates
